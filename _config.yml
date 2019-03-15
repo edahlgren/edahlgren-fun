@@ -16,7 +16,8 @@ remote_theme: broccolini/swiss
 # Theme config
 title: Erin Dahlgren
 description: Nonprofit software engineer and organizer
+url: https://fun.edahlgren.com
 github_username: edahlgren
 theme_color: magenta
 about_baseurl: /about/
-serious_url: http://edahlgren.com
+serious_url: https://edahlgren.com
