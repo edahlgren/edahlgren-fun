@@ -24,6 +24,6 @@ That morning Oldot's office was as excellent to him as it always was, for there 
 
 No one bothered him today, not even to ask how was "doing".  So he settled into his customized ergnomic seat thinking how on all accounts this morning could still turn out to be execellent.
 
-One might notice that there would be no point in telling the reader of this morning if it turned out to be so oridinary.  No, this morning was definitely not an ordinary one, and finally at half past eleven, just as he received the daily lunch announcement of organic, seasoned squirrel food, did the event of our interest take place.
+One might notice that there would be no point in telling the reader of this morning if it turned out to be so oridinary.  No, this morning was definitely not an ordinary one, and finally at half past eleven, just as Oldot received the daily company lunch announcement of organic, seasoned squirrel food, did the event of our interest take place.
 
 To be continued.
