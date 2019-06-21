@@ -1,6 +1,6 @@
 ---
 layout: about
-image: ../assets/img/face-long-bw.jpg
+image: ../assets/img/erin-face-yellow.png
 permalink: /about/
 ---
 
